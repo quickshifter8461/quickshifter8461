@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @quickshifter8461
+- 👋 Hi, I’m Vishnu
 - 👀 I’m interested in developing responsive and user friendly websites
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on any beginner level projects
 - 📫 How to reach me at 24x7vishnu@gmail.com
 
