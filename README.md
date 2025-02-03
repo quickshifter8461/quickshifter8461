@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishnu Prabhakar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Lawsome](https://lawsome-13ea1.web.app/)
-
 - 🌱 I’m currently learning **Docker**
 
 - 👯 I’m looking to collaborate on [Crave](https://crave-mern-frontend.vercel.app/account/login)
